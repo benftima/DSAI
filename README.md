@@ -2,6 +2,12 @@
 
 #                          IntroToCNNs  &  TensorFlow-keras 
                       Convolutional Neural Networks  Tensor Flow -Keras
+                      
+Les réseaux de neurones convolutifs (  ici avec Keras )
+Pour ce projet , nous sommes entièrement connecté à un modèle convolutif. En effet, les réseaux de neurones convolutifs profonds (Convolutional Neural Net ou CNN) sont particulièrement adaptés à la reconnaissance d’images.
+
+
+                      
 Classement des images avec les Convolution Neuron Network    par Med dhafer Assil 
 Med Dhafer Assil  [hammaasil21@gmail.com]
 
