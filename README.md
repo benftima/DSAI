@@ -1,9 +1,9 @@
 # DSAI
 
-# DSAI                        IntroToCNNs
-                      Convolutional Neural Networks
+#                          IntroToCNNs  &  TensorFlow-keras 
+                      Convolutional Neural Networks  Tensor Flow -Keras
 Classement des images avec les Convolution Neuron Network    par Med dhafer Assil 
-Med Dhafer Assil  [hammaasil21@gmail.com][(hammaasil21@gmail.com)]
+Med Dhafer Assil  [hammaasil21@gmail.com]
 
 Ce projet montre comment classer des images de chats et chiens. Il crée un classificateur d'image à l'aide d'un modèle tf.keras.Sequential et le Convolution neural Network avec les classe Conv2D et MaxPooling2D en passant par les fonctions ReLu et sigmoid. Nous aborderons  les concepts suivants :
 
