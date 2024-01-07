@@ -1,7 +1,7 @@
 # DSAI
 
-# DL-V1-IntroToCNNs
-Notebooks for Introduction to Convolutional Neural Networks
+# DSAI                        IntroToCNNs
+                      Convolutional Neural Networks
 Classement des images avec les Convolution Neuron Network
 Med Dhafer Assil  
 
@@ -17,6 +17,13 @@ Construire le modèle
 Former le modèle
 Testez le modèle
 Améliorez le modèle et répétez le processus
+
+## Lien vers la presentation du projet 
+* [Presentation google Slide du Projet][(https://docs.google.com/presentation/d/1F9fT70cVR2Qv1qSLqQCKsHrAN2tQTouIJObQa6UQ8CI/edit?usp=sharing))], Jan, 2024
+* [Git du  Projet]
+  - [(https://github.com/dhaferasil/DSAI/blob/main/Med_Dhafer_Asil_DSAI_project_.ipynb)]   Dec 2023
+
+
 
 ## Videos of Live Sessions
 * [TensorFlow 2 Tutorial](https://www.youtube.com/watch?v=M5cGJV-cKmE), May 23, 2020
