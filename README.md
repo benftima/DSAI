@@ -1,4 +1,4 @@
-# DSAI    Med dhafer Assil 
+# DSAI    Med dhafer Assil          CNN Network
 
 #                          IntroToCNNs  &  TensorFlow-keras 
                       Convolutional Neural Networks  Tensor Flow -Keras
@@ -11,19 +11,20 @@ Chargement efficace d'un jeu de données sur google cloab à partir de kaggle
 Identifier le surajustement et appliquer des techniques pour l'atténuer avec la fameuse classe de keras 
 [tf.keras.preprocessing.image.ImageDataGenerator] , y compris l'augmentation et l'abandon des données.
 
-#Ce projet suit un flux de travail d'apprentissage automatique de base :
+#
+# Ce projet suit un flux de travail d'apprentissage automatique de Convolution CNN
 
-##Examiner et comprendre les données
+1-Examiner et comprendre les données
 
-##Créer un pipeline d'entrée  
+2-Créer un pipeline d'entrée  
 
-##Construire le modèle
+3-Construire le modèle
 
-##Former le modèle
+4-Former le modèle
 
-##Testez le modèle
+5-Testez le modèle
 
-##Améliorez le modèle et répétez le processus
+6-Améliorez le modèle et répétez le processus
 
 ## Lien vers la presentation du projet 
 * [Presentation google Slide du Projet][(https://docs.google.com/presentation/d/1F9fT70cVR2Qv1qSLqQCKsHrAN2tQTouIJObQa6UQ8CI/edit?usp=sharing))], Jan, 2024
