@@ -1,4 +1,4 @@
-# DSAI
+# DSAI    Med dhafer Assil 
 
 #                          IntroToCNNs  &  TensorFlow-keras 
                       Convolutional Neural Networks  Tensor Flow -Keras
@@ -12,10 +12,15 @@ Identifier le surajustement et appliquer des techniques pour l'atténuer, y comp
 Ce projet suit un flux de travail d'apprentissage automatique de base :
 
 Examiner et comprendre les données
-Créer un pipeline d'entrée
+
+Créer un pipeline d'entrée  
+
 Construire le modèle
+
 Former le modèle
+
 Testez le modèle
+
 Améliorez le modèle et répétez le processus
 
 ## Lien vers la presentation du projet 
