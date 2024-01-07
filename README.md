@@ -2,8 +2,8 @@
 
 # DSAI                        IntroToCNNs
                       Convolutional Neural Networks
-Classement des images avec les Convolution Neuron Network
-Med Dhafer Assil  
+Classement des images avec les Convolution Neuron Network    par Med dhafer Assil 
+Med Dhafer Assil  [hammaasil21@gmail.com][(hammaasil21@gmail.com)]
 
 Ce projet montre comment classer des images de chats et chiens. Il crée un classificateur d'image à l'aide d'un modèle tf.keras.Sequential et le Convolution neural Network avec les classe Conv2D et MaxPooling2D en passant par les fonctions ReLu et sigmoid. Nous aborderons  les concepts suivants :
 
