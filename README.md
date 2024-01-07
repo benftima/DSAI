@@ -5,23 +5,25 @@
 Classement des images avec les Convolution Neuron Network    par Med dhafer Assil 
 Med Dhafer Assil  [hammaasil21@gmail.com]
 
-Ce projet montre comment classer des images de chats et chiens. Il crée un classificateur d'image à l'aide d'un modèle tf.keras.Sequential et le Convolution neural Network avec les classe Conv2D et MaxPooling2D en passant par les fonctions ReLu et sigmoid. Nous aborderons  les concepts suivants :
+Ce projet montre comment classer des images de chats et chiens. Il crée un classificateur d'image à l'aide d'un modèle tf.keras.Sequential et le Convolution neural Network avec les classe Conv2D et MaxPooling2D ,Dense et flatten en passant par les fonctions ReLu et sigmoid. Nous aborderons  les concepts suivants :
 
 Chargement efficace d'un jeu de données sur google cloab à partir de kaggle
-Identifier le surajustement et appliquer des techniques pour l'atténuer, y compris l'augmentation et l'abandon des données.
-Ce projet suit un flux de travail d'apprentissage automatique de base :
+Identifier le surajustement et appliquer des techniques pour l'atténuer avec la fameuse classe de keras 
+[tf.keras.preprocessing.image.ImageDataGenerator] , y compris l'augmentation et l'abandon des données.
 
-Examiner et comprendre les données
+#Ce projet suit un flux de travail d'apprentissage automatique de base :
 
-Créer un pipeline d'entrée  
+##Examiner et comprendre les données
 
-Construire le modèle
+##Créer un pipeline d'entrée  
 
-Former le modèle
+##Construire le modèle
 
-Testez le modèle
+##Former le modèle
 
-Améliorez le modèle et répétez le processus
+##Testez le modèle
+
+##Améliorez le modèle et répétez le processus
 
 ## Lien vers la presentation du projet 
 * [Presentation google Slide du Projet][(https://docs.google.com/presentation/d/1F9fT70cVR2Qv1qSLqQCKsHrAN2tQTouIJObQa6UQ8CI/edit?usp=sharing))], Jan, 2024
