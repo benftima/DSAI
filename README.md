@@ -39,7 +39,12 @@ Identifier le surajustement et appliquer des techniques pour l'atténuer avec la
 
 
 
-## Videos of Live Sessions
+## Videos of Live Session project
+
+* [Assil dhafer video live project](https://drive.google.com/file/d/1KTayNEDoQ3Fp8A6BmXnzgL_6JhNwsMaQ/view?usp=sharing), 07 jan, 2024
+  - (https://github.com/dhaferasil/DSAI/blob/main/Med_Dhafer_Asil_DSAI_project_.ipynb)
+
+
 * [TensorFlow 2 Tutorial](https://www.youtube.com/watch?v=M5cGJV-cKmE), May 23, 2020
   - (https://github.com/dhaferasil/DSAI/blob/main/Med_Dhafer_Asil_DSAI_project_.ipynb)
  
