@@ -5,26 +5,28 @@ Notebooks for Introduction to Convolutional Neural Networks
 Classement des images avec les Convolution Neuron Network
 Med Dhafer Assil  
 
+Ce projet montre comment classer des images de chats et chiens. Il crée un classificateur d'image à l'aide d'un modèle tf.keras.Sequential et le Convolution neural Network avec les classe Conv2D et MaxPooling2D en passant par les fonctions ReLu et sigmoid. Nous aborderons  les concepts suivants :
+
+Chargement efficace d'un jeu de données sur google cloab à partir de kaggle
+Identifier le surajustement et appliquer des techniques pour l'atténuer, y compris l'augmentation et l'abandon des données.
+Ce projet suit un flux de travail d'apprentissage automatique de base :
+
+Examiner et comprendre les données
+Créer un pipeline d'entrée
+Construire le modèle
+Former le modèle
+Testez le modèle
+Améliorez le modèle et répétez le processus
+
 ## Videos of Live Sessions
 * [TensorFlow 2 Tutorial](https://www.youtube.com/watch?v=M5cGJV-cKmE), May 23, 2020
-  - TF2-BasicOperations.ipynb
-  - TF2-LinearRegression.ipynb
-  - TF2-LogisticRegression.ipynb
-  - TF2-NeuralNetworks.ipynb
-* [Introduction to CNNs Lecture](https://www.youtube.com/watch?v=n0egnMeW4Xk), May 25, 2020
-  - Introduction to CNNs.pdf
-* [Image Classification using CNNs Tutorial](https://www.youtube.com/watch?v=ucV1TbhoueM), May 28, 2020
-  - LeNet-MNIST.ipynb
-  - LeNet-FashionMNIST.ipynb
-  - LeNet-CIFAR10.ipynb
-  - CatsVsDogs.ipynb
+  - (https://github.com/dhaferasil/DSAI/blob/main/Med_Dhafer_Asil_DSAI_project_.ipynb)
+ 
 
-## MastAI ki paathSHALA
-Have fun Staying Home And Learning AI
 
-A course on Data Science, Machine Learning, and Deep Learning, Summer 2020
 
-[Course Website](https://shala2020.github.io/)
+
+
 
 ## Tensorflow 2 Resources
 ### Installation
@@ -36,8 +38,3 @@ A course on Data Science, Machine Learning, and Deep Learning, Summer 2020
 * [Get Started in Deep Learning With tf.keras](https://machinelearningmastery.com/tensorflow-tutorial-deep-learning-with-tf-keras/)
 * [Useful Learning Examples](https://github.com/aymericdamien/TensorFlow-Examples/tree/master/tensorflow_v2)
 
-The content is released under MIT License as specified in the LICENSE file
-
-Copyleft (&#127279;) 2020 Sumandeep Banerjee, sumandeep.banerjee@gmail.com
-
-https://www.linkedin.com/in/sumandeep-banerjee-1436a17/
