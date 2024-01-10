@@ -41,7 +41,7 @@ Identifier le surajustement et appliquer des techniques pour l'atténuer avec la
 
 ## Videos of Live Session project
 
-* [Assil dhafer video live project](https://drive.google.com/file/d/1KTayNEDoQ3Fp8A6BmXnzgL_6JhNwsMaQ/view?usp=sharing), 07 jan, 2024
+* [Assil dhafer video live project](https://drive.google.com/file/d/1h3VdDIu045ruWOhoJSb3mpUd7dxTac_M/view?usp=sharing), 07 jan, 2024
   - (https://github.com/dhaferasil/DSAI/blob/main/Med_Dhafer_Asil_DSAI_project_.ipynb)
 
 
